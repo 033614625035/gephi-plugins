@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Multilayer Closeness
+OpenIDE-Module-Short-Description: Multilayer closeness metric
+OpenIDE-Module-Long-Description: Define a metric for multilayered graphs' closeness[D[D
+OpenIDE-Module-Display-Category: Metric
